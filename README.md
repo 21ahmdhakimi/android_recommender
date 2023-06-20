@@ -2,6 +2,7 @@
 
 
 <h2>Description</h2>
+
 - <b>Course: Final Year Project </b>
 - <b>Mobile-based recommender system using user-based collaborative filtering to recommend cafe menu to new user based on similar preference of previous user</b>
 - <b>Developed using Java Android Studio and Firebase (STILL LEARNING)</b>
